@@ -15,4 +15,4 @@
 
 - HTML
 - CSS
-- javaScript
+- JavaScript
